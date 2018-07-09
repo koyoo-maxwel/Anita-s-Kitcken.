@@ -1,0 +1,101 @@
+header{
+    background-image: url("../../assets/backgrounds/landing.jpg");
+    color: white;
+}
+
+#happy{
+    background-color: yellow;
+    color: white;
+}
+#breakfast{
+    background:url("../../assets/foodtop/breakfast.jpg");
+    color: white;
+    padding-bottom: 190px;
+
+}
+#breakfast:hover{
+    color: black;
+    background-color: white;
+
+}
+#lunch{
+    color: white;
+background-image: url("../../assets/foodtop/lunch.jpg");
+padding-bottom: 190px;
+}
+#lunch:hover{
+    color: black;
+    background-color: white;
+}
+#dinner{
+color: white;
+background-image: url("../../assets/foodtop/dinner.jpg");
+padding-bottom: 190px;
+}
+#dinner:hover{
+    color: black;
+    background-color: white;
+
+
+
+}
+
+
+
+#contact{
+    background-image: url("../../assets/backgrounds/subscribe.jpg");
+    color: white;
+    padding: 84px
+}
+button{color:white;
+background-color: orange}
+
+
+#menu{
+    background-color: orange;
+    color: white;
+}
+
+#navbar{
+    background-color: #F15A29;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+span{
+    color: blue;
+
+}
+#float{
+    background-image: url("../../assets/backgrounds/foodsBg.jpg");
+    padding-bottom:556px;padding-top: 100px; padding-bottom: 190px; overflow: hidden;
+
+}
+#float1{
+    background: #259cf8; padding-bottom: 55px; border-radius: 5px;
+text-align-last: center;
+
+
+}
+
+#hh1{
+    background-color: green;
+    padding-bottom: 90px
+}
+#hh2{
+    background-color: orange;
+    padding-bottom: 78px
+}
+li {
+    display: inline;
+}
+form{
+    color: green;
+}
+#fb{
+    background-image: url();
+}
