@@ -1,12 +1,19 @@
-# Independent Project
+# Title
+Anita's Kitchen
 
-## Instructions
-  1) Please fork the Moringa School **mpft1-ip** repo to your own account.
+>Author: Koyoo Maxwel
 
-  2) Clone **your forked repo** to your own machine.`
+>Project Name: Anita's Kitchen
 
-  3) Complete the independent project.
+### Description
+> This application belongs to Anita's business.
+>has been developed using CSS BOOTSTRAP and HTML.
+>Objective of the project is to understand and have the concept of web design and development.
 
-  4) Push your commits up to your forked repo.
-  
-  5) Send the link pointing to your repo to your Technical mentor via *slack*
+Link to deployed page _(click here)_
+https://koyoo-maxwel.github.io/Anita-s-Kitcken./_ title="Title">
+Anita's Kitchen</a>
+
+
+### &copy;
+ Koyoo-maxwel | Credits <a href="www.moringaschool.com" title="Title">MORINGA SCHOOL</a>
